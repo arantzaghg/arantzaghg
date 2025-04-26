@@ -12,6 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arantzaghg&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 Trophies:
-![](https://github-profile-trophy.vercel.app/?username=arantzaghg&theme=rose&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=arantzaghg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
