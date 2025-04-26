@@ -1,6 +1,6 @@
 # **Arantza Gomez Haro Gamboa**
 
-💡 Estudiante de Ingeniería Financiera<br>📍 Guadalajara, Jalisco | ITESO<br>✉️ arantza.gomez-haro@iteso.mx
+💡 Financial Engineering Student<br>📍 Guadalajara, Jalisco | ITESO<br>✉️ arantza.gomez-haro@iteso.mx
 
 
 ## 💻 Tech Stack:
