@@ -11,7 +11,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=arantzaghg&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arantzaghg&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 Trophies:
-![](https://github-profile-trophy.vercel.app/?username=arantzaghg&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
